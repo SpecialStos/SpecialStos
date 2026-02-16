@@ -1,12 +1,11 @@
 # 💫 About Me:
 👤 Name: Chris
-🎂 Age: 24
 🌍 Location: Cyprus
 
-🔭 **Currently working on:** Cisoko - Innovating the future of roleplaying resources for FiveM
+🔭 **Currently working at:** EKODE - Innovating the future of roleplaying resources for FiveM
 
-## 🚀 Cisoko
-Cisoko creates top-tier resources for FiveM, leading the market in innovation and quality. We're dedicated to shaping the future of roleplaying resources.
+## 🚀 EKODE
+EKODE creates top-tier resources for FiveM, leading the market in innovation and quality. We're dedicated to shaping the future of roleplaying resources.
 
 - 📚 Documentation: [https://docs.cisoko.net](https://docs.cisoko.net)
 - 🛒 Store: [https://fivem.cisoko.net](https://fivem.cisoko.net)
