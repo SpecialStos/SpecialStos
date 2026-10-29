@@ -25,15 +25,6 @@ Compatibility comes first. Every resource runs on ESX, QBCore and Qbox.
 - Every fix ships with a test that failed first.
 - No framework forks, no obfuscated dependencies, no remote code loading.
 
-### Open source
-
-| Repo | What it is |
-|---|---|
-| [cis_libs](https://github.com/SpecialStos/cis_libs) | A FiveM library with zero runtime dependencies. |
-| [cis_bridge](https://github.com/SpecialStos/cis_bridge) | One adapter and one conformance test per framework, inventory and target. |
-| [RollDice](https://github.com/SpecialStos/RollDice) | A light roll-dice system for FiveM. |
-| [thermite](https://github.com/SpecialStos/thermite) | A thermite minigame for FiveM. |
-
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=lua,ts,js,vite,nodejs,mysql,sqlite,cloudflare,linux,git&theme=dark" alt="Lua, TypeScript, JavaScript, Vite, Node.js, MySQL, SQLite, Cloudflare, Linux, Git" />
